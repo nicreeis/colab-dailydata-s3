@@ -19,7 +19,7 @@ O State of Data é o maior e mais completo panorama sobre o mercado de trabalho 
 
 Veja mais detalhes no site da pesquisa: <a href="www.stateofdata.com.br">www.stateofdata.com.br</a>
 
-O link direto para o dataset pode ser acessado <a href="https://github.com/">clicando aqui</a>.
+O link direto para o dataset pode ser acessado <a href="https://www.kaggle.com/datasets/datahackers/state-of-data-2022">clicando aqui</a>.
 
 <h3 align="left">Conteúdo</h3>
 
