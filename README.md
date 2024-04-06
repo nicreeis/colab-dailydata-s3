@@ -13,6 +13,8 @@
 
 Como parte do projeto Contabilizei Start, fomos desafiados a analisar e gerar gráficos com dados extraídos de um dataset real para, desta forma, colocar em prática a plotagem de gráficos em Python como parte da disciplina Statistics for Data Science and Machine Learning.
 
+Os códigos foram desenvolvidos via Google Colab em formato Jupyter Notebook para facilitar a interação e desenvolvimento colaborativo entre todos os integrantes do time Daily Data e apresentação/entrega ao mentor.
+
 <h3 align="left">Fonte</h3>
 
 O State of Data é o maior e mais completo panorama sobre o mercado de trabalho brasileiro na área de dados. A presente pesquisa é o resultado de um esforço conjunto da Data Hackers, a maior comunidade de dados do Brasil, e da Bain & Company, consultoria global que ajuda empresas e organizações a promover mudanças que definam o futuro dos negócios, para mapear o mercado de trabalho de dados no Brasil.
